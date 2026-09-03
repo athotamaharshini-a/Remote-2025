@@ -1,0 +1,10 @@
+project\SauceDemo.class
+tests\BaseTest.class
+project\BaseTest.class
+tests\LoginTest.class
+project\Google.class
+Pages\ProductsPage.class
+project\DemoE2E.class
+project\Google2.class
+Pages\LoginPage.class
+project\Google3.class

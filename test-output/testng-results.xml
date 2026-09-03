@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="5" total="6" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-02T10:19:24 IST" name="Suite" finished-at="2026-09-02T10:22:21 IST" duration-ms="176933">
+    <groups>
+      <group name="regression">
+        <method signature="Google.GoogleSearch()[pri:0, instance:Google@44ebcd03]" name="GoogleSearch" class="Google"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="Google.GoogleSearch()[pri:0, instance:Google@44ebcd03]" name="GoogleSearch" class="Google"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2026-09-02T10:19:24 IST" name="Test" finished-at="2026-09-02T10:22:21 IST" duration-ms="176933">
+      <class name="Google">
+        <test-method signature="GoogleSearch()[pri:0, instance:Google@44ebcd03]" started-at="2026-09-02T10:19:24 IST" name="GoogleSearch" finished-at="2026-09-02T10:22:21 IST" duration-ms="176891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoogleSearch -->
+      </class> <!-- Google -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
